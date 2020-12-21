@@ -1,6 +1,5 @@
 lock "~> 3.14.0"
 
-require 'capistrano-db-tasks'
 
 #FIXME add your app name here
 set :application, 'brooklynsbloom'
